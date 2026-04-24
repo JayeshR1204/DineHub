@@ -36,6 +36,8 @@
     align-items: center;
     margin-top: 2rem;
     z-index: 10;
+     flex-direction: column;
+    gap: 10px;
 }
 .form input {
     width: 80%;
@@ -43,6 +45,7 @@
     border: none;
     outline: none;
     border-radius: 15px;
+    
 }
 .hero .bottom {
     width: 100vw;
