@@ -120,7 +120,7 @@ document.getElementById("orderList").addEventListener("click", (e) => {
       doc.data().status
     }</option>
       <option value="Pending">Pending</option>
-      <option value="Delivered">Delivered</option>
+      <option value="Completed">Delivered</option>
       <option value="Cancelled">Cancelled</option>
     </select>
     <div class="orderDetailsTable">
